@@ -1,5 +1,8 @@
-# 👋 Hi, I'm Himmah! 
+# Hi, I'm Himmah! 👋 
 
+**`Data & BI Analyst`**
+
+## About Me
 🎓 Information Systems graduate interested in data analytics and business intelligence<br/>
 📊 Passionate about transforming raw data into meaningful insights through visualization and analytical problem-solving<br/>
 🛠️ Currently working with SQL, Python, Power BI, and Excel<br/>
@@ -26,9 +29,9 @@
 ## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=himalwa&bg_color=f7f1f5&title_color=e86a92&text_color=5f5f73&icon_color=f2c14e&hide_border=true&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=himalwa&background=f7f1f5&hide_border=true&ring=f2c14e&fire=e86a92&currStreakLabel=7bb39b&sideLabels=5f5f73&dates=8a8aa3)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=himalwa&background=f7f1f5&hide_border=true&ring=f2c14e&fire=e86a92&currStreakLabel=7bb39b&sideLabels=5f5f73&dates=8a8aa3) 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himalwa&bg_color=f7f1f5&color=5f5f73&line=7bb39b&point=e86a92&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himalwa&bg_color=f7f1f5&color=5f5f73&line=7bb39b&point=e86a92&area=true&hide_border=true) -->
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=himalwa&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1)
