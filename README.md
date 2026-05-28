@@ -31,7 +31,7 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=himalwa&background=f7f1f5&hide_border=true&ring=f2c14e&fire=e86a92&currStreakLabel=7bb39b&sideLabels=5f5f73&dates=8a8aa3) 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himalwa&bg_color=f7f1f5&color=5f5f73&line=7bb39b&point=e86a92&area=true&hide_border=true) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himalwa&bg_color=f7f1f5&color=5f5f73&line=7bb39b&point=e86a92&area=true&hide_border=true) 
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=himalwa&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1)
+![](https://github-profile-trophy.vercel.app/?username=himalwa&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1) ->
